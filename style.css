@@ -59,8 +59,22 @@ iframe {
     padding: 10px;
 }
 
-span {
+.contact {
     text-align: center;
+}
+
+.contact > a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.600);
+}
+
+.contact > a:hover {
+    background-color: darkgray;
+    color: black;
 }
 
 .robos {
