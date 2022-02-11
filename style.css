@@ -28,15 +28,11 @@
 }
 
 .videos {
-    display: inline-block;
-    margin: 20px 23%;
-    padding: 5px;
+    margin: 0 26%;
 }
 
 iframe {
     box-shadow: 4px 3px 20px 1px black;
-    min-width: auto;
-    margin: auto;
 }
 
 .links {
@@ -59,7 +55,7 @@ iframe {
     border-radius: 13px;
     margin: auto;
     max-width: 25vw;
-    min-width: 33vw;
+    min-width: 47vw;
     padding: 10px;
 }
 
