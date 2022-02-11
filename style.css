@@ -59,11 +59,11 @@ iframe {
     padding: 10px;
 }
 
-#contact {
+.contact {
     text-align: center;
 }
 
-#contact > a{
+.contact > a{
     background-color: black;
     color: white;
     text-decoration: none;
@@ -72,7 +72,7 @@ iframe {
     box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.600);
 }
 
-#contact > a:hover {
+.contact > a:hover {
     background-color: darkgray;
     color: black;
 }
