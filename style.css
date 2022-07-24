@@ -110,6 +110,33 @@ iframe {
     margin: -5px;
 }
 
+.atencao {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    margin: auto;
+    width: 60%;
+    line-height: 23px;
+}
+
+.planilha > a {
+    margin: 20px 0;
+    color: black;
+    background-color: rgb(140 212 255);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.planilha > a:hover {
+    font-size: large;
+}
+
+#planilha { 
+    height: 50px;
+}
+
 a:hover {
     text-decoration: underline;
 }
